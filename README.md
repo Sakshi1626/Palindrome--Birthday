@@ -5,8 +5,6 @@ This web app tells you if your birthday is palindrome or not and if not It will 
 
 ---
 
-![Demo](/icons/app-ss.png)
-![Demo](/icons/app-ss2.png)
 
 ---
 <br/>
